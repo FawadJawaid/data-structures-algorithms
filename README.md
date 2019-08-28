@@ -1,4 +1,4 @@
-# data-structures-algorithms
+# Data Structures Algorithms
 This project implements some of the most important algorithms of Data Structures. 
 For example, 
 - Circular Linked List 
